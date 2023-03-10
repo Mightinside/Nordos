@@ -28,6 +28,11 @@ Usage
 4. It reduces power consumption and, consequently, electricity costs in comparison with Hadoop FS and other Java-based solutions at 50% according this paper, decreasing the TCO (Cost Of Ownership). It can outperform Hadoop FS greatly while tackling tasks with multimillion datasets.
 5. File system for small single board computers. Hence Nordos is adaptive highly-configurable object storage, it can save a lot of space on their drives.
 
+The public article 
+https://medium.com/@focused_tuscan_bee_454/ntfs-hunting-for-30-unused-disk-space-with-nordos-tech-b7f5a577ef3c
+with practical value.
+
+
 Try Projects
 https://www.wevolver.com/article/the-rock-engineering-challenge?li_fat_id=fa85e3f5-11d8-496a-90d2-ba07916739bc
 
